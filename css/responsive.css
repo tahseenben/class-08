@@ -1,0 +1,298 @@
+
+
+@media (max-width: 1399px){
+        .container{
+        	width: 1100px;
+        }
+        h1 span  {
+             font-size: 50px!important;
+                
+          }
+        h1{
+        	 padding-right: 45px;
+        	 font-size: 50px;
+
+        }  
+        p {
+          font-size: 18px;
+      }
+      .btn {
+            font-size: 16px;
+            padding: 8px 15px;
+            }
+          
+
+}
+
+@media (max-width: 1199px){
+	.container {
+           width: 820px;
+    }
+    .banner-content span {
+           font-size: 14px;
+         }
+
+    h1 span  {
+             font-size: 40px!important;
+                
+          }
+    h1{
+        	 font-size: 40px;
+
+             margin-top: 4px;
+          } 
+    p{
+        	    margin: 28px 0px;
+        	    font-size: 18px;
+        }  
+    .feature img {
+    
+              height: 80px;
+            } 
+
+    .feature {
+             padding: 40px 0px;
+        }
+
+    nav {
+            width: 80%;
+        } 
+    .logo {
+            width: 20%;
+          }
+
+	.course h3 {
+           font-size: 20px;
+                }
+    .course span {
+            font-size: 15px;
+            margin-top: 6px;
+                   }
+    .course ul li {
+            font-size: 13px;
+                  }
+    .client-img {
+    	padding: 8px;
+                  }
+    .client-content p {
+        font-size: 14px;
+                      } 
+    footer p {
+              font-size: 14px;
+    
+              margin-right: -50px;
+          }
+    .copyright a {
+               font-size: 14px;
+                   }
+    footer ul li a {
+               font-size: 15px;
+                    }
+
+
+}
+
+
+@media (max-width: 991px){
+	   .container {
+             width: 600px;
+          }
+	    nav ul li a {
+             font-size: 14px;
+             padding: 8px 15px;
+                      }
+        .logo {
+             width: 25%;
+                }
+        nav {
+              width: 75%;
+                 }        
+        h1 {
+              font-size: 33px;
+              padding-right: 6px;
+                  }             
+        h1 span {
+              font-size: 33px!important;
+                  }
+        p {
+              margin: 20px 0px;
+              font-size: 14px;
+              margin: 10px 0px;
+                    }
+        .pad-y {
+              padding-top: 0px;
+                      }
+        .feature-section .col-4 {
+              width: 50%;
+                       }
+       .course h3 {
+              font-size: 14px;
+                     }
+        .course span {
+                font-size: 14px;
+                margin-bottom: 16px;
+                       }  
+        .btn {
+                font-size: 14px;
+                padding: 6px 10px;
+                      }                          
+        .course ul {
+                margin-top: 21px;
+                margin-bottom: 0px;
+                        }                          
+        .course ul li:last-child{
+        	display: none;
+        }
+        .client-content p {
+            font-size: 13px;
+            padding-right: 0px;
+            color: #403860e6;
+                     }
+       footer .container .col-4:first-child{
+       	width: 100%
+       }
+       footer .container{
+       	justify-content: center;
+       }
+       footer .container .col-4{
+       	width: 33.33%;
+       }
+       footer ul li a {
+         font-size: 13px;
+            }
+        footer ul li strong {
+         font-size: 17px;
+            }
+        
+
+
+
+}
+
+@media (max-width: 767px){
+	.container {
+           width: 400px;
+         }
+    .logo {
+         width: 100%;
+              }
+     
+	.logo a img {
+         width: 200px;
+         margin: auto;
+         display: block;
+              }
+    nav {
+         width: 100%;
+              }
+    .flex {
+    justify-content: center;
+          }
+    header {
+    padding: 5px 0px;
+          }
+    nav ul li a {
+    font-size: 17px;
+    padding: 8px 15px;
+             }
+    .banner-content {
+    width: 100%;
+    margin: 40px;
+    text-align: center;
+        }
+    p {
+    text-align: center;
+    padding: 0px;
+         }
+    .banner-img {
+    width: 70%;
+    padding: 15px 30px;
+    order: -1;
+
+               }
+    h1 ,h1 span{
+    font-size: 40px!important;
+}
+    p {
+    font-size: 15px;
+}
+    .col-3 {
+    width: 90%;
+}
+   .heading h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+   .col-3 {
+    width: 50%;
+}
+   .client-img {
+    padding: 0px;
+}
+   .client-content {
+    width: 90%;
+}
+   .testimonial-section {
+    padding: 0px 0px;
+}
+   
+
+
+
+
+}
+
+@media (max-width: 575px){
+	.container {
+           width: 380px;
+         }
+    footer ul li strong {
+    font-size: 14px;
+}
+    footer ul li a {
+    font-size: 12px;
+}
+ .col-3 {
+    width: 100%;
+}
+nav ul li a {
+    font-size: 14px;
+} 
+
+.banner-img {
+    width: 80%;
+}
+
+
+
+	
+}
+
+@media (max-width: 420px){
+	.container{
+		width: 280px;
+	}
+	.feature-section .col-4 {
+    width: 100%;
+             }
+    .feature h3 {
+    font-size: 22px;
+}
+.client-content {
+    width: 100%;
+}
+footer ul li strong {
+    font-size: 14px;
+}
+footer ul li a {
+    font-size: 12px;
+}
+footer .container .col-4 {
+    width: 100%;
+    text-align: center;
+}
+p.copyright {
+    font-size: 14px;
+    text-align: inherit;
+    }
+}
